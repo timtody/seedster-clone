@@ -1,0 +1,6 @@
+attrs
+tensorflow==2.11.0
+scikit-image
+google-cloud-storage
+opencv-python-headless
+numpy

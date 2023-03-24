@@ -1,0 +1,5 @@
+*.h5
+.DS_STORE/
+.ipynb_checkpoints/
+.tb/
+.lambda/
